@@ -1,1 +1,1 @@
-# kieferapplications.github.io
+Kiefer Applications will never collect any user data.
